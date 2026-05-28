@@ -1,0 +1,32 @@
+aid: hirak-faceapi
+name: Hirak FaceAPI
+description: "Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits"
+url: https://faceapi.hirak.site/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: Hirak FaceAPI
+    description: "Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits"
+    humanURL: https://faceapi.hirak.site/
+    baseURL: https://faceapi.hirak.site/
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://faceapi.hirak.site/
+common:
+  - type: Website
+    url: https://faceapi.hirak.site/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
