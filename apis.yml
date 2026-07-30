@@ -1,4 +1,16 @@
 aid: hirak-faceapi
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hirak-faceapi.png
 name: Hirak FaceAPI
 description: "Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits"
 url: https://faceapi.hirak.site/
